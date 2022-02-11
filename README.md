@@ -1,1 +1,1 @@
-This repository will showcase my solutions to OverTheWire cyber security challenges. 
+This repository tech blog showcase my solutions to OverTheWire cyber security challenges. 
