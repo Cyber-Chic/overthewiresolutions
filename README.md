@@ -1,11 +1,8 @@
 <hr style="border-top: dotted 1px;" />
 <br>
 <p>Greetings!</p>
-<br>
 <p>This <a href="https://cyber-chic.github.io/overthewiresolutions">S.T.E.M. BLOG</a> will showcase my solutions to OverTheWire cyber security challenges.</p>
-<br>
 <p>ENJOY! :)</p>
-<br>
 <p>-cyber-chic</p>
 <br>
 <hr style="border-top: dotted 1px;" />
