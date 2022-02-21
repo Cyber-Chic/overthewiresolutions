@@ -10,4 +10,4 @@ ENJOY! :)
 -cyber-chic
 <br>
 <h3>OverTheWire Solutions:</h3>
-<p><a href="https://cyber-chic.github.io/overthewiresolutions/banditlevel0.html">BANDIT LEVEL 0</a></p>
+<p><a href="https://cyber-chic.github.io/overthewiresolutions/banditlevel0">BANDIT LEVEL 0</a></p>
