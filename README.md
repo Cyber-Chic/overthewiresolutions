@@ -1,7 +1,7 @@
 <p>Greetings!</p>
 <br>
 <br>
-<p>This <a href="https://cyber-chic.github.io/overthewiresolutions">S.T.E.M. BLOG</a> will showcase my solutions to OverTheWire cyber security challenges.</p>
+<h3>This <a href="https://cyber-chic.github.io/overthewiresolutions">S.T.E.M. BLOG</a> will showcase my solutions to OverTheWire cyber security challenges.</h3>
 <br>
 <br>
 <p>ENJOY! :)</p>
