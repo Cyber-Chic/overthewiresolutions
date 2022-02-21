@@ -5,6 +5,6 @@
 <p>ENJOY! :)</p>
 <br>
 <p>-cyber-chic</p>
-<br>
+<hr style="border-top: dotted 1px;" />
 <h3>OverTheWire Solutions:</h3>
 <h3><a href="https://cyber-chic.github.io/overthewiresolutions/banditlevel0">BANDIT LEVEL 0</a></h3>
