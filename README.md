@@ -1,3 +1,4 @@
+<hr style="border-top: dotted 1px;" />
 <br>
 <p>Greetings!</p>
 <br>
